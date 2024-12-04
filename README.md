@@ -60,6 +60,9 @@ This project uses **ESP32 microcontrollers** and the **Intel® Distribution of O
 
 ---
 
+![image](https://github.com/user-attachments/assets/02f3cadb-f0a9-4790-b13f-3326d3073920)
+
+
 ## 📂 Repository Structure
 
 ```plaintext
